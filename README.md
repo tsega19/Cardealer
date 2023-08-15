@@ -1,5 +1,4 @@
-
-# Car Dealer website
+# Car Dealer website using Django
 A simple project based on Online Car Dealer Website which uses Python with Django Web
 Framework. The project contains all the important features which can be in use by any car buying
 and selling agents with simple methods. This system as well as the web application’s concept is
